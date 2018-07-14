@@ -1,0 +1,57 @@
+body {
+    background-image: url("../images/background.jpg");
+    background-size: 100%;
+   
+}
+
+p {
+    font-family: 'Yantramanav', sans-serif;
+    font-size: 22px;
+}
+#CC {
+    font-family: 'Yantramanav', sans-serif;
+}
+
+.footer{
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 20px;
+    
+}
+
+#theFooter {
+    background-color: black;
+    opacity: 0.8
+}
+
+
+#navPictures{
+    background-color:#000000;
+    opacity: 0.8;
+    padding: 5px;
+
+}
+#boxText {
+    height: 185px;
+}
+
+img {
+    opacity: 100%;
+}
+
+.theImage {
+    width: 40%;
+}
+
+.otherImages {
+    
+        width: 75%;
+    
+}
+
+#welcomeMsg {
+    padding: 50px;
+    color: white;
+}
+
