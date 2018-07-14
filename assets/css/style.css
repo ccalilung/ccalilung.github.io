@@ -1,8 +1,4 @@
-body {
-    background-image: url("../images/background.jpg");
-    background-size: 100%;
-   
-}
+
 
 p {
     font-family: 'Yantramanav', sans-serif;
@@ -11,6 +7,47 @@ p {
 #CC {
     font-family: 'Yantramanav', sans-serif;
 }
+
+#img1 {
+    float:left;
+    margin-right: 15px;
+}
+
+.bgText {
+    font-size: 16px;
+}
+
+#secondRow {
+    margin-top: 100px;
+}
+
+#img2{
+    float:right;
+    width: 65%;
+    margin-left: 15px;
+}
+
+#img3{
+    float: right;
+    width: 60%;
+    margin-left: 15px;
+    margin-right: 5px;
+}
+
+#img4{
+    float: left;
+    width: 60%;
+   
+    margin-right: 15px;
+}
+
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
 
 .footer{
     position: relative;
@@ -27,8 +64,7 @@ p {
 
 
 #navPictures{
-    background-color:#000000;
-    opacity: 0.8;
+   
     padding: 5px;
 
 }
@@ -36,9 +72,7 @@ p {
     height: 185px;
 }
 
-img {
-    opacity: 100%;
-}
+
 
 .theImage {
     width: 40%;
@@ -52,6 +86,5 @@ img {
 
 #welcomeMsg {
     padding: 50px;
-    color: white;
 }
 
