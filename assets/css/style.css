@@ -4,7 +4,7 @@ p {
     font-family: 'Yantramanav', sans-serif;
     font-size: 22px;
 }
-#CC {
+.CC {
     font-family: 'Yantramanav', sans-serif;
 }
 
@@ -40,6 +40,19 @@ p {
     margin-right: 15px;
 }
 
+.contactImages {
+    width: 60%;
+}
+.contactBox {
+    text-align: center;
+}
+.contactTitles {
+    font-size: 30px;
+    text-align:center;
+}
+#gitHub {
+    width: 120px;
+}
 
 .clearfix::after {
     content: "";
